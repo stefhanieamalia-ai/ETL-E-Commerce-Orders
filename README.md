@@ -1,5 +1,4 @@
-# ETL-E-Commerce-Orders
-
+  
 # ETL E-Commerce Orders Pipeline
 
 Proyek ini merupakan implementasi **End-to-End ETL (Extract, Transform, Load)** untuk memproses data transaksi e-commerce dari data mentah menjadi data yang bersih, tervalidasi, dan siap digunakan untuk analisis maupun pelaporan.
