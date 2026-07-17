@@ -77,9 +77,15 @@ Pipeline menghasilkan beberapa file berikut:
 
 | File | Deskripsi |
 |------|-----------|
-| `orders_clean.csv` | Data transaksi yang telah dibersihkan |
+| `orders_clean.csv` | Data transaksi yang telah dibersihkan | 
+<img width="1000"  alt="image" src="https://github.com/user-attachments/assets/79c8627d-02e2-4bbc-8d2b-4cdc21119d97" />
+
 | `summary_report.csv` | Ringkasan transaksi berdasarkan kategori |
+<img width="1000"  alt="image" src="https://github.com/user-attachments/assets/d3d24335-1bfd-4334-a396-24bf139db951" />
+
 | `pipeline_log.txt` | Log proses eksekusi pipeline |
+<img width="1000"  alt="image" src="https://github.com/user-attachments/assets/e0d97dff-92ed-4bdc-8ad0-d4c33803630c" />
+
 
 ---
 
